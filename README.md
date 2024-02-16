@@ -1,6 +1,7 @@
 # tesbih
 
-![Resim Açıklaması](https://drive.google.com/file/d/1gBVzSIEXe5TCCMqdV7WstuhebyXBshSp/view?usp=sharing)
+![eklentiphoto](1.png)
+![eklentiphoto](2.png)
 
 
 
