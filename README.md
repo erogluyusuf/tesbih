@@ -1,8 +1,8 @@
 # tesbih
 
 <div style="overflow-x: auto;">
-  <img src="1.png" style="width: 100%; max-width: 500px; display: inline-block;">
-  <img src="2.png" style="width: 100%; max-width: 500px; display: inline-block;">
+  <img src="1.png" style="width: 50%; max-width: 500px; display: inline-block;">
+  <img src="2.png" style="width: 50%; max-width: 500px; display: inline-block;">
 </div>
 
 
