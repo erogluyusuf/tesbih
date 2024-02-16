@@ -1,4 +1,8 @@
 # tesbih
+
+![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1gBVzSIEXe5TCCMqdV7WstuhebyXBshSp/view?usp=sharing)
+
+
 This extension tracks prayer, Quran, and dhikr, organizing worship efficiently. Strengthen spiritual connections!
 
 Welcome to our Tesbih Companion Extension!
