@@ -5,7 +5,7 @@
   <img src="2.png" style="width: auto; height: 300px; margin-right: 10px;">
 </div>
 
-<a href="https://chromewebstore.google.com/detail/tesbih/cgblnjmcgffcdonaechalakajcfnanba?hl=en-US&utm_source=ext_sidebar">
+<a href="https://chromewebstore.google.com/detail/tesbih/cgblnjmcgffcdonaechalakajcfnanba?hl=en-US&utm_source=ext_sidebar"></a>
 
 This extension tracks prayer, Quran, and dhikr, organizing worship efficiently. Strengthen spiritual connections!
 
